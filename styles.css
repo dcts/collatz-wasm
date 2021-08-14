@@ -1,0 +1,25 @@
+* {
+  font-family: monospace;
+}
+body {
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  font-size: 38px;
+  margin-top: 100px;
+}
+p {
+  text-align: center;
+  font-size: 22px;
+}
+.chart-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+button {
+  display: flex;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+}
